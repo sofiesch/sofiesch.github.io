@@ -13,10 +13,11 @@
     <link href="./style.css" rel="stylesheet" />
   </head>
   <body>
-    <nav class="navbar navbar-expand-sm">
-      <div class="container-fluid">
+    <nav class="navbar sticky-top navbar-expand-sm mb-0 shadow bg-body">
+      <div class="container-fluid px-4">
         <a class="navbar-brand" href="#">
-          <img src="./S Logo.png" alt="..." height="40" />
+          <img src="./S Logo.png" alt="..." height="48" />
+          <span class="ms-2">Sofie Maria Schlein</span>
         </a>
         <button
           class="navbar-toggler"
@@ -44,17 +45,58 @@
         </div>
       </div>
     </nav>
-    <header class="container">
-      <h1 class="display-6">Sofie Maria Schlein</h1>
-      <small class="text-body-secondary">Design & Illustration</small>
-      <p class="h1">
-        Hallo! Schön, dass du vorbeischaust.<br />
-        Ich überarbeite gerade meine Seite. In der Zwischenzeit kannst du dir
-        gerne ein paar meiner Arbeiten anschauen!
+
+    <div class="container-fluid px-0">
+      <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel" data-bs-theme="dark">
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true"></button>
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1"></button>
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2"></button>
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3"></button>
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="4"></button>
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="5"></button>
+        </div>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="projekt1.jpg" class="d-block w-100">
+          </div>
+          <div class="carousel-item">
+            <img src="projekt2.jpg" class="d-block w-100">
+          </div>
+          <div class="carousel-item">
+            <img src="projekt3.jpg" class="d-block w-100">
+          </div>
+          <div class="carousel-item">
+            <img src="projekt4.jpg" class="d-block w-100">
+          </div>
+          <div class="carousel-item">
+            <img src="projekt5.jpg" class="d-block w-100">
+          </div>
+          <div class="carousel-item">
+            <img src="projekt6.jpg" class="d-block w-100">
+          </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+    </div>
+
+    <header class="container pt-5">
+      <h1 class="mb-1">Sofie Maria Schlein</h1>
+      <p class="text-body-secondary custom-subtitle mb-4">Design & Illustration</p>
+      <p class="custom-lead">
+        Hallo! Schön, dass du vorbeischaust. Hier findest du eine Auswahl an Arbeiten bla bla bla
       </p>
+      <a type="button" class="btn btn-bd-primary" href="#projects">Zu den Projekten</a>
     </header>
 
-    <main>
+    <main class="mt-5" id="projects">
       <section class="container bg-body-tertiary p-5 mt-4">
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-4">
           <div class="col">
@@ -149,10 +191,10 @@
         <p>email@example.com</p>
       </section>
     </main>
-    <footer class="container-fluid mt-4 p-4">
+    <footer class="container mt-4 py-4">
       <div class="d-flex justify-content-between">
         <div>© 2023 Hergestellt mit ♡ in Münster</div>
-        <div>Instagram</div>
+        <div>Instagram | Impressum</div>
       </div>
     </footer>
 

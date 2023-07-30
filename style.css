@@ -1,10 +1,17 @@
 :root {
     --bs-tertiary-bg-rgb: 245, 247, 250;
     --bs-body-font-family: Montserrat, sans-serif;
+    --bd-violet-bg: #712cf9;
+    --bd-violet-rgb: 113, 44, 249;
   }
 .card-img-top {
     width: 100%;
     height: 50vw;
+    object-fit: cover;
+}
+.carousel-item > img {
+    width: 100%;
+    height: 30vw;
     object-fit: cover;
 }
 @media (min-width: 576px) {
@@ -20,3 +27,29 @@
         max-width: 1200px;
     }
 }
+
+.custom-lead {
+    font-size: calc(0.1rem + 1.5vw);
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+.custom-subtitle {
+    font-size: calc(0.2rem + 1.5vw);
+    font-weight: 300;
+    line-height: 1;
+}
+
+.btn-bd-primary {
+    --bs-btn-font-weight: 600;
+    --bs-btn-color: var(--bs-white);
+    --bs-btn-bg: var(--bd-violet-bg);
+    --bs-btn-border-color: var(--bd-violet-bg);
+    --bs-btn-hover-color: var(--bs-white);
+    --bs-btn-hover-bg: #6528e0;
+    --bs-btn-hover-border-color: #6528e0;
+    --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
+    --bs-btn-active-color: var(--bs-btn-hover-color);
+    --bs-btn-active-bg: #5a23c8;
+    --bs-btn-active-border-color: #5a23c8;
+  }
