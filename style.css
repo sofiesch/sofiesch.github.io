@@ -1,7 +1,7 @@
 :root {
     --bs-tertiary-bg-rgb: 245, 247, 250;
     --bs-body-font-family: Montserrat, sans-serif;
-    --bd-violet-bg: #712cf9;
+    --bd-violet-bg: #ebc82b;
     --bd-violet-rgb: 113, 44, 249;
   }
 .card-img-top {
@@ -46,8 +46,8 @@
     --bs-btn-bg: var(--bd-violet-bg);
     --bs-btn-border-color: var(--bd-violet-bg);
     --bs-btn-hover-color: var(--bs-white);
-    --bs-btn-hover-bg: #6528e0;
-    --bs-btn-hover-border-color: #6528e0;
+    --bs-btn-hover-bg: #0f0f0f;
+    --bs-btn-hover-border-color: #e0c428;
     --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
     --bs-btn-active-color: var(--bs-btn-hover-color);
     --bs-btn-active-bg: #5a23c8;
