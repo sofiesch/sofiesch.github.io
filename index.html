@@ -253,7 +253,7 @@
   <!-- ///////////////////////////////////////////////////////////////////////////////////////////
                            START SECTION 9 - THE FOOTER  
 ///////////////////////////////////////////////////////////////////////////////////////////////-->
-  <footer id="contact" class="footer">
+  <footer id="contact" class="footer mt-4">
     <div class="container">
       <div class="row">
         <!-- CONTENT FOR SOCIAL MEDIA  -->
@@ -325,9 +325,29 @@
   </footer>
 
   <!-- BACK TO TOP BUTTON  -->
-  <a href="#" class="shadow btn btn-primary rounded-circle back-to-top">
+  <a href="#" id="btn-back-to-top" class="shadow btn btn-primary rounded-circle back-to-top">
     <i class="fas fa-chevron-up"></i>
   </a>
+  <script>
+    let mybutton = document.getElementById("btn-back-to-top");
+
+    // When the user scrolls down 20px from the top of the document, show the button
+    window.onscroll = function () {
+      scrollFunction();
+    };
+
+    function scrollFunction() {
+      if (
+        document.body.scrollTop > 400 ||
+        document.documentElement.scrollTop > 400
+      ) {
+        mybutton.style.display = "block";
+      } else {
+        mybutton.style.display = "none";
+      }
+    }
+    scrollFunction()
+  </script>
   <script src="assets/js/bootstrap.bundle.min.js"></script>
 </body>
 
