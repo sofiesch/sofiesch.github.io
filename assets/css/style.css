@@ -90,8 +90,8 @@
   --bs-secondary-bg-rgb: 233, 236, 239;
   --bs-tertiary-color: rgba(33, 37, 41, 0.5);
   --bs-tertiary-color-rgb: 33, 37, 41;
-  --bs-tertiary-bg: #f8f9fa;
-  --bs-tertiary-bg-rgb: 248, 249, 250;
+  --bs-tertiary-bg: #212529;
+  --bs-tertiary-bg-rgb: 33, 37, 41;
   --bs-heading-color: inherit;
   --bs-link-color: #e0c428;
   --bs-link-color-rgb: 224, 196, 40;
@@ -13077,9 +13077,6 @@ textarea.form-control-lg {
   }
 }
 
-.menu {
-  background: #212529;
-}
 .menu li {
   padding: 0 0.7rem;
 }
