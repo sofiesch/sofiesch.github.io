@@ -1,30 +1,5 @@
 @use '../custom' as *;
 
-.display-2 {
-    margin-bottom: 1rem;
-    // text-transform: capitalize;
-    font-family: 'Poppins', sans-serif;
-
-    &--intro {
-        display: inline-block;
-        font-weight: 700;
-        font-family: 'Poppins', sans-serif;
-    }
-
-    &--description {
-        font-size: 1rem;
-        display: block;
-        margin-top: 1.2rem;
-        text-transform: none;
-
-        @include media-breakpoint-up(lg) {
-            font-size: 1.4rem;
-            display: inline-block;
-
-        }
-    }
-}
-
 // HEADING LINE 
 .heading-line::before {
     content: "";
@@ -33,31 +8,6 @@
     display: block;
     margin: 1.5rem auto;
     background-color: $primary;
-}
-
-
-// DISPLAY 3 
-.display-3 {
-    font-family: 'Poppins', sans-serif;
-
-    &--title {
-        font-size: 1.2rem;
-        // text-transform: capitalize;
-        font-weight: 600;
-        font-family: 'Poppins', sans-serif;
-        display: inline-block;
-        // background-image: linear-gradient(to right, $bg-primary, $bg-secondary);
-        color: black;
-        // background-clip: text;
-        // -webkit-background-clip: text;
-        // -webkit-text-fill-color: transparent;
-
-        @include media-breakpoint-up(lg) {
-            font-size: 1.8rem;
-        }
-
-
-    }
 }
 
 // BORDER RIGHT 
