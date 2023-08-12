@@ -2,7 +2,7 @@
 @use '../components/mixins' as *;
 
 .menu {
-    @include gradient;
+    background: $bg-tertiary;
 
 
     li {
@@ -11,7 +11,7 @@
       a {
         color: $white;
         padding: 0 0.7rem;
-        text-transform: capitalize;
+        // text-transform: capitalize;
         font-weight: 600;      
 
       }

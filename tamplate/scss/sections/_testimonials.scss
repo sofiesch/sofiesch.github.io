@@ -4,7 +4,7 @@
 .testimonials {
     position: relative;
     padding: 0;
-    @include gradient;
+    background: $bg-primary;
 
     &__card {
         background-color: rgba($white, 0.8);
@@ -49,12 +49,12 @@
 
         h3 {
             padding-top: 0.8rem;
-            text-transform: capitalize;
+            // text-transform: capitalize;
         }
 
         p {
             padding-bottom: 2rem;
-            text-transform: capitalize;
+            // text-transform: capitalize;
         }
     }
 }

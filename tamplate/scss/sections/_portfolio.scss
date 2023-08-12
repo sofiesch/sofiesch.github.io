@@ -5,7 +5,7 @@
     padding: 4rem 0;
 
     button {
-        text-transform: capitalize;
+        // text-transform: capitalize;
     }
 }
 
@@ -43,16 +43,16 @@
             }
         }
     }
-    &:hover {
+    // &:hover {
 
-        img {
-            transform: scale(1.5);
-            @include transitionProperty;
-        }
-        .portfolio-info {
-            opacity: 1;
-            visibility: visible;
-            @include transitionProperty;
-        }
-    }
+    //     img {
+    //         transform: scale(1.5);
+    //         @include transitionProperty;
+    //     }
+    //     .portfolio-info {
+    //         opacity: 1;
+    //         visibility: visible;
+    //         @include transitionProperty;
+    //     }
+    // }
 }
