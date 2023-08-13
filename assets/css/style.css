@@ -13077,18 +13077,6 @@ textarea.form-control-lg {
   }
 }
 
-.menu li {
-  padding: 0 0.7rem;
-}
-.menu li a {
-  color: #fff;
-  padding: 0 0.7rem;
-  font-weight: 600;
-}
-.menu li:hover {
-  color: #fff;
-}
-
 .intro-section {
   background: #000000;
   padding: 10rem 0 0 0;
@@ -13129,84 +13117,6 @@ textarea.form-control-lg {
 }
 .campanies__logo-box img:hover {
   filter: grayscale(120);
-}
-
-.services {
-  position: relative;
-  padding: 1rem 0;
-}
-.services__content {
-  padding: 1rem;
-  margin-top: 0;
-}
-.services__content p {
-  font-size: 0.8rem;
-}
-@media (min-width: 992px) {
-  .services__content p {
-    font-size: 1rem;
-  }
-}
-@media (min-width: 992px) {
-  .services__content {
-    margin-top: 5rem;
-  }
-}
-.services__content .icon {
-  font-size: 1.5rem;
-  color: #e0c428;
-}
-@media (min-width: 992px) {
-  .services__content .icon {
-    font-size: 2.5rem;
-  }
-}
-.services__pic {
-  max-width: 100%;
-}
-
-.testimonials {
-  position: relative;
-  padding: 0;
-  background: #000000;
-}
-.testimonials__card {
-  background-color: rgba(255, 255, 255, 0.8);
-  padding: 2rem 1.25rem;
-  border-radius: 0.625rem;
-  height: auto;
-  text-align: center;
-}
-.testimonials__card i {
-  font-size: 1.5rem;
-  color: rgba(224, 196, 40, 0.7);
-}
-.testimonials__card .ratings i {
-  color: rgba(224, 196, 40, 0.7);
-  font-size: 1rem;
-}
-.testimonials__picture {
-  width: 6rem;
-  height: 6rem;
-  position: absolute;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-.testimonials__picture img {
-  border: 0.325rem solid rgba(224, 196, 40, 0.7);
-}
-.testimonials__name {
-  padding-top: 3rem;
-  margin-bottom: 1rem;
-  text-align: center;
-  font-weight: 500;
-  color: #fff;
-}
-.testimonials__name h3 {
-  padding-top: 0.8rem;
-}
-.testimonials__name p {
-  padding-bottom: 2rem;
 }
 
 .portfolio-box {
