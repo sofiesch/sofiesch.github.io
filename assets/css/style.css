@@ -13033,7 +13033,7 @@ textarea.form-control-lg {
   margin: 0;
   border: 0.1rem solid rgba(255, 255, 255, 0.6);
   background-color: #fff;
-  display: block;
+  /* display: block; */
 }
 .btn-rounded span {
   position: absolute;
