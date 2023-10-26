@@ -8,7 +8,7 @@ env = Environment(
 
 template = env.get_template("anfrage.html")
 
-with open("articles.csv") as f:
+with open("drop.csv") as f:
     articles = []
     for row in csv.DictReader(f):
         row["groessen"] = [s.strip() for s in row["groessen"].split("-")]
