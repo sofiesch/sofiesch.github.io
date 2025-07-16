@@ -1,0 +1,18 @@
+:root {
+
+  --bs-primary: #e0c428;
+  --bs-primary-rgb: 224, 196, 40;
+}
+
+.btn-primary {
+    background-color: #e0c428;
+    border: 0;
+}
+
+.btn-primary:hover {
+    background-color: #cab024;
+}
+
+.card {
+    border-color: #e0c428;
+}

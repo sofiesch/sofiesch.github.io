@@ -1,0 +1,32 @@
+---
+layout: layout
+---
+
+<div class="container mt-5">
+  <div class="col-lg-10 mx-auto">
+    <h1 class="pt-2 display-5 fw-semibold">{{ page.project_title }}</h1>
+    <p class="fw-light lead">{{ page.project_subtitle }}</p>
+
+    <div class="row">
+      <div class="col-12">
+        {{ content }}
+      </div>
+    </div>
+
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 mt-4 masonry">
+      {% for image in page.project_images %}
+        <div class="py-3">
+          <img src="{{ image.src | relative_url }}" class="img-fluid">
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha384-GNFwBvfVxBkLMJpYMOABq3c+d3KnQxudP/mGPkzpZSTYykLBNsZEnG2D9G/X/+7D" crossorigin="anonymous" async></script>
+
+<script>
+  window.addEventListener("load", (event) => {
+    new Masonry( '.masonry', {percentPosition: true});
+  });
+</script>
