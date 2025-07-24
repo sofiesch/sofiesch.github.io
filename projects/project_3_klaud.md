@@ -23,6 +23,13 @@ Das Besondere an der Klaud ist das Infill. Dieser Begriff bezieht sich auf die i
 
 Auf diese Weise lässt sich die Klaud nach individuellen Bedürfnissen anpassen und wird zu einem einzigartigen Schmuckstück in jedem Zuhause.
 
+<p>
+  <a href="https://youtu.be/YLZH8uZcnlI" target="_blank" class="link-dark link-primary-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover fw-semibold">
+          <i class="bi bi-YouTube"></i>
+          How to Use Klaud 
+  </a>
+</p>
+
 Dieses Projekt ist in Gruppenarbeit mit Jule Schurek und Anika Kubirski entstanden. 
 
 Fotos: Sofie Maria Schlein - 2024

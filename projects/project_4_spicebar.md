@@ -24,6 +24,13 @@ Ziel war es, eine Verpackung zu gestalten die das Produkt schützt, logistische 
 
 Dieses Verpackungskonzept wurde beim Pro Carton Young Designers Award 2023 eingereicht und ist unter die Top 25 gekommen. In der Kategorie Food & Drinks kam die Verpackung unter die Top 3 und wurde bei der Preisverleihung in Sevilla als Finalist ausgezeichnet.
 
+<p>
+  <a href="https://youtu.be/jeD1o-RLsTs" target="_blank" class="link-dark link-primary-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover fw-semibold">
+          <i class="bi bi-YouTube"></i>
+          How to Use SpiceBar 
+  </a>
+</p>
+
 Dieses Projekt ist in Gruppenarbeit mit Leonie Bornhöft und Irina Kozlova entstanden. 
 
 Fotos: Gruppe - 2023
