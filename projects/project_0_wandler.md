@@ -47,8 +47,5 @@ Wandler ist modular, nachhaltig und offen - ein System, das bleibt, weil es sich
 Ein Bachelorprojekt von Sofie Maria Schlein I Entstanden im SoSe 2025 an der Münster School of Design
 
 
-<b> <i> Alle Informationen zur Veröffentlichung der 3D-Druckdateien gibt es in Kürze hier.
-
-
 Fotos: Sofie Maria Schlein - 2025
 
