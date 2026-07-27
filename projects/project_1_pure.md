@@ -7,14 +7,14 @@ project_description: Pure ist eine Glasverpackung für pflanzliche Milchalternat
 project_thumbnail: /assets/images/pure_11.png
 project_images:
   - src: /assets/images/pure_01.png
-  - src: /assets/images/pure_02.png
+  - src: /assets/images/pure_09.jpg
   - src: /assets/images/pure_03.jpg
   - src: /assets/images/pure_04.png
   - src: /assets/images/pure_05.jpg
   - src: /assets/images/pure_06.jpg
   - src: /assets/images/pure_07.jpg
   - src: /assets/images/pure_08.jpg
-  - src: /assets/images/pure_09.jpg
+  - src: /assets/images/pure_02.png
   - src: /assets/images/pure_10.png
   - src: /assets/images/pure_11.png
   - src: /assets/images/pure_12.png
