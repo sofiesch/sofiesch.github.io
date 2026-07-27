@@ -3,7 +3,8 @@ layout: project
 project_title: Wandler
 project_subtitle: Produktdesign I 3D Druck
 project_description: Wandler ist eine zeitgemäße Neuinterpretation des klassischen „Stummen Dieners“, funktional, nachhaltig und ästhetisch. Herzstück des Konzepts sind Module aus dem 3D-Drucker.
-project_thumbnail: /assets/images/pure_11.png
+
+project_thumbnail: /assets/images/wandler_07.png
 project_images:
   - src: /assets/images/wandler_07.png
   - src: /assets/images/wandler_27.png
