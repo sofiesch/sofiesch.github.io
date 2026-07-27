@@ -12,7 +12,7 @@ project_images:
   - src: /assets/images/wandler_09.JPEG
   - src: /assets/images/wandler_10.JPEG
   - src: /assets/images/wandler_11.JPEG
-  - src: /assets/images/wandler_13.JPEG
+  - src: /assets/images/wandler_26.jpg
   - src: /assets/images/wandler_12.png
   - src: /assets/images/wandler_14.JPEG
   - src: /assets/images/wandler_15.JPEG
@@ -27,7 +27,7 @@ project_images:
   - src: /assets/images/wandler_24.jpg
   - src: /assets/images/wandler_25.jpg
   - src: /assets/images/wandler_logo_02.jpg
-  - src: /assets/images/wandler_26.jpg
+  - src: /assets/images/wandler_13.JPEG
   - src: /assets/images/wandler_poster.png
   - src: /assets/images/wandler_poster_02.png
 
