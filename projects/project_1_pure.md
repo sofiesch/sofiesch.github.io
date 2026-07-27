@@ -22,13 +22,13 @@ project_images:
 
 
 ---
-Pure ist eine Glasverpackung für pflanzliche Milchalternativen und bietet eine gut recyclebare Mehrwegalternative zum herkömmlichen Tetra Pak. Die 1-Liter-Glasflasche wurde speziell für den täglichen Gebrauch entwickelt und vereint Funktionalität, Nachhaltigkeit und eine eigenständige Gestaltung in einem zeitlosen Produkt.
+Pure ist eine Glasverpackung für pflanzliche Milchalternativen und bietet eine gut recyclebare Mehrwegalternative zum herkömmlichen Getränkekarton. Die 1-Liter-Glasflasche wurde speziell für den täglichen Gebrauch entwickelt und vereint Funktionalität, Nachhaltigkeit und eine eigenständige Gestaltung in einem zeitlosen Produkt.
 
 Im Mittelpunkt des Konzepts steht eine Mehrwegflasche, die sich durch ihre Abmessungen nahtlos in das bestehende Mehrwegsystem integriert. Dadurch kann sie ohne zusätzliche Infrastruktur in bestehende Logistik- und Rücknahmesysteme eingebunden werden und leistet einen direkten Beitrag zur Reduzierung von Verpackungsabfällen. Die robuste Glasflasche eignet sich besonders für Familienhaushalte, Großverbraucher*innen sowie Cafés, in denen pflanzliche Milchalternativen regelmäßig genutzt werden.
 
 Charakteristisches Merkmal von Pure sind drei ergonomisch angeordnete Griffmulden. Sie ermöglichen einen sicheren und komfortablen Halt – sowohl mit der rechten als auch mit der linken Hand – und erleichtern das Ausgießen selbst bei einer vollständig gefüllten Flasche. Gleichzeitig erzeugen die drei bewusst asymmetrisch platzierten Mulden eine markante Silhouette, die sich im Supermarktregal deutlich von konventionellen Milchflaschen abhebt. So verbindet Pure praktischen Nutzen mit einer klaren gestalterischen Identität.
 
-Mit Pure entsteht eine Verpackung, die den Gedanken der Kreislaufwirtschaft konsequent weiterdenkt. Glas ist langlebig, nahezu unbegrenzt recyclebar und kann im Mehrwegsystem über viele Umläufe hinweg genutzt werden. Im Vergleich zu Einwegverpackungen wie dem Tetra Pak reduziert das Konzept Ressourcenverbrauch und Verpackungsmüll, ohne Kompromisse bei Komfort oder Alltagstauglichkeit einzugehen.
+Mit Pure entsteht eine Verpackung, die den Gedanken der Kreislaufwirtschaft konsequent weiterdenkt. Glas ist langlebig, nahezu unbegrenzt recyclebar und kann im Mehrwegsystem über viele Umläufe hinweg genutzt werden. Im Vergleich zu Einwegverpackungen wie dem Getränkekarton reduziert das Konzept Ressourcenverbrauch und Verpackungsmüll, ohne Kompromisse bei Komfort oder Alltagstauglichkeit einzugehen.
 
 Dieses Projekt ist in Gruppenarbeit mit Laura Frisen, Lea Kammerer und David Engel an der HdM Stuttgart entstanden. (Master - SoSe26)
 
