@@ -2,7 +2,7 @@
 layout: project
 project_title: Pure
 project_subtitle: Verpackungstechnik I Produktdesign
-project_description: Pure ist eine Glasverpackung für pflanzliche Milchalternativen und bietet eine gut recyclebare Mehrwegalternative zum herkömmlichen Tetra Pak.
+project_description: Pure ist eine Glasverpackung für pflanzliche Milchalternativen und bietet eine gut recyclebare Mehrwegalternative zum herkömmlichen Getränkekarton.
 
 project_thumbnail: /assets/images/pure_11.png
 project_images:
